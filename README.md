@@ -15,6 +15,32 @@ The model can classify:
     Libraries: NumPy, Pandas, Matplotlib
 
 
+
+
+
+⚙️ Installation
+
+To set up the environment and install all dependencies, run the following commands:
+
+```bash
+ Create virtual environment
+   python -m venv venv
+
+ Activate virtual environment
+   On Windows:
+     venv\Scripts\activate
+   On macOS/Linux:
+     source venv/bin/activate
+
+ Install dependencies
+   pip install -r requirements.txt
+
+    
+
+
+
+    
+
 📊 Results:
 
 
