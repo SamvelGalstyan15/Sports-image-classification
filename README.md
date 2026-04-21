@@ -35,6 +35,9 @@ To set up the environment and install all dependencies, run the following comman
  Install dependencies
    pip install -r requirements.txt
 ```
+
+
+
     
 
 
@@ -45,4 +48,7 @@ To set up the environment and install all dependencies, run the following comman
 
 
 
-<img width="552" height="509" alt="image" src="https://github.com/user-attachments/assets/649fbaef-6923-4dbd-83e1-1fff1116ead8" />
+
+
+<img width="717" height="566" alt="image" src="https://github.com/user-attachments/assets/d15ecc6d-0490-4c16-ac32-0a64dfb7cb12" />
+
